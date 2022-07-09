@@ -1,4 +1,4 @@
-# ADMINISTRAO
+# ADMINISTRAÇÃO
 Repositório contendo conteúdos das cadeiras de ADM
 
 Eficiência x Eficácia x Efetividade
